@@ -31,10 +31,10 @@ const Doctors = () => {
         Price:897
        },
        { 
-        Name:"Dr.Panchal",
+        Name:"Dr.Arup_Sahu",
         State:"Aandhra Pradesh",
         Speciality:["Chronic Low Back Pain","Vertigo","Knee Injuries"],
-        Image:"https://t4.ftcdn.net/jpg/03/20/52/31/360_F_320523164_tx7Rdd7I2XDTvvKfz2oRuRpKOPE5z0ni.jpg",
+        Image:"https://cdn.askapollo.com/live/images/doctors/general-medicine/dr-arup-sahu-general-medicine-in-kolkata.png",
         Price:560
        },
 
@@ -42,7 +42,7 @@ const Doctors = () => {
         Name:"Dr.Kiran Reddy",
         State:"Aandhra Pradesh",
         Speciality:["Neurological Disorders","Geriatric Rehab","Shoulder Injuries"],
-        Image:"https://cdn.siasat.com/wp-content/uploads/2023/04/Dr-Sudhir-Kumar.png",
+        Image:"https://cdn.askapollo.com/live/images/doctors/general-medicine/dr-aman-kumar-general-medicine-in-chennai.png",
         Price:1234             
 
        },
@@ -67,7 +67,7 @@ const Doctors = () => {
         Name:"Dr.Mohan Munniswamy",
         State:"Karantaka",
         Speciality:["Neurological Disorders","Geriatric Rehab","Shoulder Injuries"],
-        Image:"https://www.google.com/search?q=Docyore+Image&oq=Docyore+Image&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQLhhA0gEIODMwN2owajGoAgCwAgA&sourceid=chrome&ie=UTF-8#imgrc=Mkgx24d8boHrbM&imgdii=Tib7AuWm4GGx4M" ,             
+        Image:"https://www.gleneaglesglobalhospitals.com/docprofile/Dr-Srinivasa-Chary-Avancha.jpg" ,             
         Price:690
        },
 
