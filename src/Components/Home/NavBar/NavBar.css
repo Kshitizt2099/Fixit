@@ -1,0 +1,33 @@
+.NavBar{
+    position: relative;
+    height: 70px;
+    width: 100vw;
+    background-color: #3B465A;
+}
+.Fix{
+    position: absolute;
+    left:50px
+}
+
+.Routes{
+    position: absolute;
+    right:100px;
+    background-color: #3B465A;
+    width: 200px;
+    height: 70px;
+    display: flex;
+    padding: 10px;
+    flex-direction: row;
+    font-size: medium;
+}
+.Route{
+    margin-top:5px;
+    margin: 10px;
+    font-size: 20px;
+
+}
+
+.Logo{
+    height: 70px;
+    width: 90px;
+}

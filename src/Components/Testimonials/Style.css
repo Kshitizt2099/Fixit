@@ -1,0 +1,54 @@
+.Main_Test{
+     background-color:black;
+     height: 500px;
+     width: 100vw;
+     position: relative;
+}
+
+
+
+.Review_Container{
+    margin-left: 50px;
+    display: flex;
+    flex-direction: row;
+    overflow: hidden;
+   
+}
+
+
+.slick-prev {
+    left: 3% !important;
+    z-index: 1;
+    
+}
+  .slick-next {
+    right: 3% !important;
+    z-index: 1;
+  }
+
+  .Top{
+    position: relative;
+    left: 650px;
+  }
+
+
+
+  .Heading{
+    position: relative;
+    left:-10px;
+    color:white;
+    font-size: larger;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+}
+
+.Subheading{
+    position: relative;
+    left:-60px;
+    color: white;
+    font-size: larger;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+}
+.S1{
+color: #00ACC1
+
+}
